@@ -1,0 +1,202 @@
+order_id,seller,channel,sku,qty,order_created_at,destination_country,platform_status
+ORD-100000,Vela Activewear,Shopify,SKU-1007,1,2026-10-14 17:00,DE,Delivered
+ORD-100001,Vela Activewear,Amazon,SKU-1005,2,2026-10-17 23:00,GB,Shipped
+ORD-100002,Lumen Home,Shopify,SKU-1010,4,2026-10-14 01:00,GB,Delivered
+ORD-100003,Northwind Skincare,eBay,SKU-1022,3,2026-10-16 05:00,GB,Shipped
+ORD-100004,Northwind Skincare,Amazon,SKU-1012,1,2026-10-15 01:00,GB,Shipped
+ORD-100005,Vela Activewear,eBay,SKU-1023,3,2026-10-17 06:00,GB,Shipped
+ORD-100006,Kettle & Co,Amazon,SKU-1017,2,2026-10-16 02:00,GB,Shipped
+ORD-100007,Vela Activewear,eBay,SKU-1031,4,2026-10-18 11:00,GB,Processing
+ORD-100008,Brightpeak Outdoor,eBay,SKU-1014,2,2026-10-16 04:00,NL,Shipped
+ORD-100009,Lumen Home,eBay,SKU-1024,4,2026-10-16 01:00,GB,Shipped
+ORD-100010,Northwind Skincare,eBay,SKU-1010,4,2026-10-15 19:00,GB,Shipped
+ORD-100011,Lumen Home,Shopify,SKU-1010,1,2026-10-16 03:00,GB,Delivered
+ORD-100012,Lumen Home,eBay,SKU-1031,1,2026-10-14 05:00,IE,Shipped
+ORD-100013,Kettle & Co,Shopify,SKU-1034,2,2026-10-16 23:00,GB,Delivered
+ORD-100014,Brightpeak Outdoor,Shopify,SKU-1001,2,2026-10-16 07:00,GB,Shipped
+ORD-100015,Vela Activewear,eBay,SKU-1032,2,2026-10-17 17:00,NL,Delivered
+ORD-100016,Northwind Skincare,eBay,SKU-1006,4,2026-10-17 14:00,FR,Delivered
+ORD-100017,Kettle & Co,Shopify,SKU-1021,1,2026-10-15 23:00,GB,Delivered
+ORD-100018,Brightpeak Outdoor,Amazon,SKU-1028,1,2026-10-17 17:00,NL,Shipped
+ORD-100019,Kettle & Co,Amazon,SKU-1025,1,2026-10-13 12:00,NL,Shipped
+ORD-100020,Kettle & Co,eBay,SKU-1018,2,2026-10-17 02:00,IE,Delivered
+ORD-100021,Kettle & Co,Shopify,SKU-1032,1,2026-10-17 19:00,DE,Shipped
+ORD-100022,Brightpeak Outdoor,Amazon,SKU-1005,4,2026-10-14 19:00,NL,Shipped
+ORD-100023,Vela Activewear,Amazon,SKU-1020,1,2026-10-15 16:00,GB,Delivered
+ORD-100024,Lumen Home,eBay,SKU-1015,3,2026-10-17 18:00,IE,Shipped
+ORD-100025,Vela Activewear,Shopify,SKU-1035,3,2026-10-13 18:00,GB,Delivered
+ORD-100026,Northwind Skincare,Shopify,SKU-1016,4,2026-10-14 11:00,GB,Shipped
+ORD-100027,Brightpeak Outdoor,eBay,SKU-1016,2,2026-10-14 17:00,GB,Delivered
+ORD-100028,Northwind Skincare,Amazon,SKU-1035,2,2026-10-15 00:00,GB,Delivered
+ORD-100029,Kettle & Co,Shopify,SKU-1006,3,2026-10-14 13:00,GB,Shipped
+ORD-100030,Brightpeak Outdoor,Shopify,SKU-1015,3,2026-10-13 20:00,IE,Shipped
+ORD-100031,Northwind Skincare,Amazon,SKU-1019,2,2026-10-16 06:00,GB,Delivered
+ORD-100032,Lumen Home,eBay,SKU-1007,3,2026-10-17 23:00,IE,Delivered
+ORD-100033,Northwind Skincare,eBay,SKU-1032,1,2026-10-14 21:00,IE,Delivered
+ORD-100034,Vela Activewear,Amazon,SKU-1027,1,2026-10-16 04:00,FR,Shipped
+ORD-100035,Vela Activewear,eBay,SKU-1018,2,2026-10-15 23:00,GB,Shipped
+ORD-100036,Brightpeak Outdoor,eBay,SKU-1018,2,2026-10-16 12:00,NL,Delivered
+ORD-100037,Brightpeak Outdoor,Shopify,SKU-1005,3,2026-10-14 14:00,GB,Shipped
+ORD-100038,Kettle & Co,Amazon,SKU-1039,1,2026-10-15 14:00,GB,Shipped
+ORD-100039,Brightpeak Outdoor,Shopify,SKU-1006,4,2026-10-14 02:00,NL,Processing
+ORD-100040,Lumen Home,Shopify,SKU-1016,2,2026-10-15 17:00,GB,Delivered
+ORD-100041,Brightpeak Outdoor,Shopify,SKU-1005,2,2026-10-15 05:00,NL,Shipped
+ORD-100042,Vela Activewear,eBay,SKU-1029,4,2026-10-15 05:00,GB,Delivered
+ORD-100043,Kettle & Co,Amazon,SKU-1022,3,2026-10-18 02:00,GB,Delivered
+ORD-100044,Vela Activewear,eBay,SKU-1025,2,2026-10-14 13:00,GB,Shipped
+ORD-100045,Kettle & Co,Amazon,SKU-1008,4,2026-10-15 20:00,GB,Delivered
+ORD-100046,Lumen Home,Shopify,SKU-1026,3,2026-10-14 02:00,FR,Shipped
+ORD-100047,Brightpeak Outdoor,Amazon,SKU-1001,2,2026-10-15 18:00,FR,Processing
+ORD-100048,Lumen Home,eBay,SKU-1038,1,2026-10-14 21:00,FR,Delivered
+ORD-100049,Northwind Skincare,eBay,SKU-1012,1,2026-10-14 07:00,IE,Shipped
+ORD-100050,Northwind Skincare,Amazon,SKU-1027,3,2026-10-15 06:00,GB,Shipped
+ORD-100051,Vela Activewear,Amazon,SKU-1009,4,2026-10-14 08:00,GB,Delivered
+ORD-100052,Kettle & Co,Amazon,SKU-1005,3,2026-10-13 16:00,GB,Delivered
+ORD-100053,Lumen Home,eBay,SKU-1013,3,2026-10-15 12:00,GB,Shipped
+ORD-100054,Northwind Skincare,Amazon,SKU-1026,4,2026-10-16 20:00,GB,Delivered
+ORD-100055,Lumen Home,Amazon,SKU-1037,3,2026-10-14 14:00,FR,Shipped
+ORD-100056,Brightpeak Outdoor,Shopify,SKU-1016,2,2026-10-16 11:00,GB,Delivered
+ORD-100057,Lumen Home,Shopify,SKU-1037,3,2026-10-16 15:00,FR,Delivered
+ORD-100058,Vela Activewear,Amazon,SKU-1002,1,2026-10-16 15:00,NL,Shipped
+ORD-100059,Kettle & Co,Shopify,SKU-1011,1,2026-10-16 07:00,DE,Shipped
+ORD-100060,Vela Activewear,eBay,SKU-1036,3,2026-10-17 07:00,IE,Delivered
+ORD-100061,Lumen Home,eBay,SKU-1033,4,2026-10-13 23:00,DE,Shipped
+ORD-100062,Vela Activewear,Shopify,SKU-1006,2,2026-10-14 04:00,GB,Delivered
+ORD-100063,Kettle & Co,Shopify,SKU-1038,4,2026-10-15 17:00,FR,Delivered
+ORD-100064,Lumen Home,eBay,SKU-1034,2,2026-10-17 12:00,FR,Delivered
+ORD-100065,Kettle & Co,Shopify,SKU-1007,4,2026-10-15 18:00,DE,Delivered
+ORD-100066,Kettle & Co,Amazon,SKU-1014,1,2026-10-17 15:00,GB,Delivered
+ORD-100067,Lumen Home,Amazon,SKU-1030,3,2026-10-17 15:00,FR,Shipped
+ORD-100068,Kettle & Co,eBay,SKU-1025,1,2026-10-14 14:00,IE,Processing
+ORD-100069,Kettle & Co,eBay,SKU-1034,4,2026-10-18 07:00,NL,Processing
+ORD-100070,Vela Activewear,Shopify,SKU-1017,2,2026-10-17 00:00,FR,Delivered
+ORD-100071,Brightpeak Outdoor,Amazon,SKU-1000,4,2026-10-15 04:00,FR,Delivered
+ORD-100072,Vela Activewear,eBay,SKU-1030,4,2026-10-15 21:00,FR,Delivered
+ORD-100073,Lumen Home,eBay,SKU-1004,3,2026-10-13 12:00,GB,Delivered
+ORD-100074,Kettle & Co,Amazon,SKU-1009,4,2026-10-13 12:00,GB,Delivered
+ORD-100075,Kettle & Co,Amazon,SKU-1015,4,2026-10-14 09:00,FR,Delivered
+ORD-100076,Northwind Skincare,eBay,SKU-1008,3,2026-10-17 22:00,GB,Delivered
+ORD-100077,Kettle & Co,Amazon,SKU-1016,3,2026-10-15 14:00,FR,Shipped
+ORD-100078,Northwind Skincare,eBay,SKU-1002,1,2026-10-15 05:00,FR,Shipped
+ORD-100079,Lumen Home,Amazon,SKU-1010,3,2026-10-15 18:00,NL,Shipped
+ORD-100080,Vela Activewear,eBay,SKU-1026,2,2026-10-15 07:00,GB,Shipped
+ORD-100081,Lumen Home,eBay,SKU-1029,3,2026-10-16 21:00,DE,Shipped
+ORD-100082,Kettle & Co,Amazon,SKU-1022,3,2026-10-15 18:00,GB,Shipped
+ORD-100083,Northwind Skincare,eBay,SKU-1022,3,2026-10-15 01:00,FR,Delivered
+ORD-100084,Northwind Skincare,Amazon,SKU-1022,2,2026-10-14 21:00,IE,Shipped
+ORD-100085,Brightpeak Outdoor,Shopify,SKU-1023,2,2026-10-15 00:00,IE,Shipped
+ORD-100086,Lumen Home,Shopify,SKU-1032,3,2026-10-15 07:00,NL,Shipped
+ORD-100087,Northwind Skincare,Amazon,SKU-1014,4,2026-10-17 08:00,GB,Delivered
+ORD-100088,Vela Activewear,Amazon,SKU-1024,3,2026-10-15 00:00,DE,Delivered
+ORD-100089,Lumen Home,Amazon,SKU-1029,3,2026-10-13 17:00,GB,Delivered
+ORD-100090,Brightpeak Outdoor,Amazon,SKU-1008,4,2026-10-15 06:00,FR,Delivered
+ORD-100091,Lumen Home,eBay,SKU-1023,2,2026-10-17 22:00,FR,Shipped
+ORD-100092,Vela Activewear,Shopify,SKU-1017,2,2026-10-16 00:00,GB,Shipped
+ORD-100093,Lumen Home,Shopify,SKU-1008,2,2026-10-16 19:00,IE,Shipped
+ORD-100094,Brightpeak Outdoor,Shopify,SKU-1009,2,2026-10-13 13:00,GB,Shipped
+ORD-100095,Kettle & Co,Amazon,SKU-1016,1,2026-10-17 04:00,IE,Delivered
+ORD-100096,Northwind Skincare,Amazon,SKU-1032,2,2026-10-15 09:00,IE,Processing
+ORD-100097,Northwind Skincare,Shopify,SKU-1006,4,2026-10-14 11:00,GB,Shipped
+ORD-100098,Vela Activewear,eBay,SKU-1038,3,2026-10-16 02:00,IE,Shipped
+ORD-100099,Lumen Home,Amazon,SKU-1014,4,2026-10-15 17:00,GB,Delivered
+ORD-100100,Lumen Home,Shopify,SKU-1009,4,2026-10-16 03:00,DE,Delivered
+ORD-100101,Northwind Skincare,Amazon,SKU-1035,3,2026-10-15 03:00,DE,Shipped
+ORD-100102,Vela Activewear,Amazon,SKU-1036,2,2026-10-17 13:00,GB,Shipped
+ORD-100103,Lumen Home,Amazon,SKU-1014,4,2026-10-15 01:00,GB,Delivered
+ORD-100104,Brightpeak Outdoor,Amazon,SKU-1036,4,2026-10-17 08:00,NL,Delivered
+ORD-100105,Vela Activewear,Shopify,SKU-1023,3,2026-10-17 06:00,FR,Delivered
+ORD-100106,Northwind Skincare,Amazon,SKU-1027,4,2026-10-15 18:00,NL,Delivered
+ORD-100107,Northwind Skincare,Shopify,SKU-1037,4,2026-10-14 12:00,GB,Delivered
+ORD-100108,Brightpeak Outdoor,eBay,SKU-1007,1,2026-10-16 09:00,DE,Delivered
+ORD-100109,Vela Activewear,Amazon,SKU-1025,1,2026-10-17 17:00,DE,Shipped
+ORD-100110,Kettle & Co,eBay,SKU-1007,4,2026-10-15 20:00,GB,Processing
+ORD-100111,Lumen Home,eBay,SKU-1006,2,2026-10-13 14:00,GB,Delivered
+ORD-100112,Brightpeak Outdoor,Shopify,SKU-1010,1,2026-10-13 23:00,GB,Delivered
+ORD-100113,Vela Activewear,Amazon,SKU-1011,2,2026-10-17 01:00,FR,Delivered
+ORD-100114,Lumen Home,eBay,SKU-1020,2,2026-10-13 12:00,GB,Delivered
+ORD-100115,Northwind Skincare,eBay,SKU-1028,1,2026-10-18 07:00,DE,Processing
+ORD-100116,Brightpeak Outdoor,Shopify,SKU-1037,1,2026-10-15 15:00,NL,Shipped
+ORD-100117,Brightpeak Outdoor,Amazon,SKU-1011,1,2026-10-15 10:00,GB,Delivered
+ORD-100118,Kettle & Co,Amazon,SKU-1026,3,2026-10-16 01:00,GB,Delivered
+ORD-100119,Northwind Skincare,Amazon,SKU-1005,2,2026-10-16 08:00,DE,Delivered
+ORD-100120,Brightpeak Outdoor,Amazon,SKU-1008,1,2026-10-13 18:00,IE,Delivered
+ORD-100121,Vela Activewear,Shopify,SKU-1008,2,2026-10-16 22:00,FR,Delivered
+ORD-100122,Brightpeak Outdoor,Amazon,SKU-1011,2,2026-10-17 06:00,DE,Delivered
+ORD-100123,Kettle & Co,Amazon,SKU-1015,3,2026-10-15 06:00,IE,Shipped
+ORD-100124,Northwind Skincare,eBay,SKU-1012,2,2026-10-17 06:00,IE,Shipped
+ORD-100125,Brightpeak Outdoor,Amazon,SKU-1010,3,2026-10-17 16:00,GB,Shipped
+ORD-100126,Brightpeak Outdoor,Shopify,SKU-1003,4,2026-10-15 21:00,GB,Shipped
+ORD-100127,Brightpeak Outdoor,eBay,SKU-1021,2,2026-10-13 15:00,NL,Shipped
+ORD-100128,Northwind Skincare,Shopify,SKU-1013,2,2026-10-16 18:00,NL,Delivered
+ORD-100129,Vela Activewear,Amazon,SKU-1007,4,2026-10-17 18:00,GB,Delivered
+ORD-100130,Kettle & Co,Amazon,SKU-1005,3,2026-10-17 03:00,GB,Shipped
+ORD-100131,Vela Activewear,Amazon,SKU-1004,3,2026-10-16 05:00,IE,Delivered
+ORD-100132,Northwind Skincare,Amazon,SKU-1029,4,2026-10-13 16:00,GB,Shipped
+ORD-100133,Lumen Home,Amazon,SKU-1032,4,2026-10-16 11:00,IE,Shipped
+ORD-100134,Kettle & Co,Amazon,SKU-1021,3,2026-10-13 12:00,GB,Shipped
+ORD-100135,Brightpeak Outdoor,eBay,SKU-1033,3,2026-10-13 20:00,GB,Delivered
+ORD-100136,Lumen Home,Amazon,SKU-1020,3,2026-10-17 16:00,GB,Delivered
+ORD-100137,Brightpeak Outdoor,Shopify,SKU-1027,3,2026-10-14 20:00,GB,Delivered
+ORD-100138,Vela Activewear,Shopify,SKU-1004,2,2026-10-17 10:00,FR,Shipped
+ORD-100139,Northwind Skincare,Shopify,SKU-1004,2,2026-10-15 18:00,FR,Shipped
+ORD-100140,Lumen Home,eBay,SKU-1024,1,2026-10-15 08:00,NL,Delivered
+ORD-100141,Lumen Home,eBay,SKU-1004,4,2026-10-16 19:00,GB,Processing
+ORD-100142,Kettle & Co,eBay,SKU-1008,2,2026-10-17 01:00,GB,Delivered
+ORD-100143,Northwind Skincare,Amazon,SKU-1025,4,2026-10-16 11:00,NL,Delivered
+ORD-100144,Northwind Skincare,eBay,SKU-1035,2,2026-10-13 16:00,GB,Shipped
+ORD-100145,Vela Activewear,Amazon,SKU-1020,2,2026-10-17 06:00,GB,Delivered
+ORD-100146,Vela Activewear,Amazon,SKU-1034,1,2026-10-14 20:00,IE,Shipped
+ORD-100147,Vela Activewear,Amazon,SKU-1002,3,2026-10-17 16:00,FR,Delivered
+ORD-100148,Kettle & Co,Amazon,SKU-1015,4,2026-10-15 13:00,NL,Shipped
+ORD-100149,Lumen Home,eBay,SKU-1038,2,2026-10-16 07:00,DE,Shipped
+ORD-100150,Lumen Home,Amazon,SKU-1029,1,2026-10-16 20:00,IE,Delivered
+ORD-100151,Kettle & Co,Amazon,SKU-1010,3,2026-10-16 19:00,GB,Delivered
+ORD-100152,Kettle & Co,eBay,SKU-1025,4,2026-10-17 15:00,IE,Delivered
+ORD-100153,Lumen Home,Shopify,SKU-1000,1,2026-10-15 06:00,NL,Shipped
+ORD-100154,Vela Activewear,Amazon,SKU-1012,3,2026-10-15 03:00,IE,Delivered
+ORD-100155,Kettle & Co,eBay,SKU-1025,3,2026-10-17 14:00,GB,Delivered
+ORD-100156,Vela Activewear,Amazon,SKU-1021,4,2026-10-17 09:00,GB,Delivered
+ORD-100157,Northwind Skincare,Amazon,SKU-1021,4,2026-10-14 23:00,DE,Delivered
+ORD-100158,Vela Activewear,Amazon,SKU-1030,3,2026-10-14 22:00,GB,Delivered
+ORD-100159,Brightpeak Outdoor,Amazon,SKU-1007,2,2026-10-15 01:00,DE,Delivered
+ORD-100160,Brightpeak Outdoor,Amazon,SKU-1003,2,2026-10-13 14:00,DE,Delivered
+ORD-100161,Lumen Home,eBay,SKU-1030,2,2026-10-14 20:00,GB,Delivered
+ORD-100162,Lumen Home,Shopify,SKU-1022,3,2026-10-18 10:00,GB,Processing
+ORD-100163,Vela Activewear,Amazon,SKU-1005,3,2026-10-14 07:00,DE,Delivered
+ORD-100164,Northwind Skincare,Shopify,SKU-1006,2,2026-10-17 09:00,NL,Delivered
+ORD-100165,Lumen Home,Amazon,SKU-1008,1,2026-10-14 11:00,GB,Delivered
+ORD-100166,Northwind Skincare,Amazon,SKU-1005,2,2026-10-14 00:00,IE,Shipped
+ORD-100167,Lumen Home,Amazon,SKU-1018,1,2026-10-14 03:00,FR,Shipped
+ORD-100168,Kettle & Co,eBay,SKU-1032,4,2026-10-13 14:00,GB,Delivered
+ORD-100169,Lumen Home,Shopify,SKU-1021,3,2026-10-18 01:00,NL,Shipped
+ORD-100170,Kettle & Co,Amazon,SKU-1008,4,2026-10-17 03:00,GB,Delivered
+ORD-100171,Vela Activewear,eBay,SKU-1023,2,2026-10-14 15:00,IE,Delivered
+ORD-100172,Lumen Home,Amazon,SKU-1014,2,2026-10-14 20:00,FR,Delivered
+ORD-100173,Brightpeak Outdoor,eBay,SKU-1033,3,2026-10-15 17:00,DE,Shipped
+ORD-100174,Kettle & Co,Shopify,SKU-1033,4,2026-10-16 09:00,NL,Shipped
+ORD-100175,Brightpeak Outdoor,eBay,SKU-1003,4,2026-10-15 02:00,GB,Delivered
+ORD-100176,Brightpeak Outdoor,eBay,SKU-1004,1,2026-10-16 06:00,FR,Delivered
+ORD-100177,Northwind Skincare,Shopify,SKU-1028,4,2026-10-16 02:00,DE,Shipped
+ORD-100178,Brightpeak Outdoor,Shopify,SKU-1000,1,2026-10-13 16:00,NL,Delivered
+ORD-100179,Northwind Skincare,eBay,SKU-1012,1,2026-10-16 15:00,GB,Delivered
+ORD-100180,Brightpeak Outdoor,eBay,SKU-1002,4,2026-10-16 19:00,GB,Shipped
+ORD-100181,Brightpeak Outdoor,Amazon,SKU-1038,3,2026-10-15 01:00,GB,Shipped
+ORD-100182,Kettle & Co,eBay,SKU-1037,2,2026-10-15 03:00,GB,Shipped
+ORD-100183,Lumen Home,eBay,SKU-1009,3,2026-10-15 22:00,GB,Delivered
+ORD-100184,Lumen Home,eBay,SKU-1035,4,2026-10-17 19:00,GB,Processing
+ORD-100185,Vela Activewear,Shopify,SKU-1023,1,2026-10-13 14:00,IE,Shipped
+ORD-100186,Northwind Skincare,Shopify,SKU-1037,2,2026-10-13 20:00,GB,Delivered
+ORD-100187,Lumen Home,Amazon,SKU-1035,3,2026-10-16 20:00,GB,Delivered
+ORD-100188,Brightpeak Outdoor,eBay,SKU-1030,3,2026-10-17 14:00,GB,Delivered
+ORD-100189,Vela Activewear,Shopify,SKU-1037,4,2026-10-15 04:00,NL,Delivered
+ORD-100190,Vela Activewear,Amazon,SKU-1031,4,2026-10-14 01:00,GB,Delivered
+ORD-100191,Northwind Skincare,eBay,SKU-1004,1,2026-10-17 22:00,GB,Shipped
+ORD-100192,Vela Activewear,Amazon,SKU-1029,3,2026-10-15 10:00,GB,Delivered
+ORD-100193,Vela Activewear,Shopify,SKU-1017,3,2026-10-14 06:00,GB,Delivered
+ORD-100194,Vela Activewear,Shopify,SKU-1022,3,2026-10-13 18:00,FR,Shipped
+ORD-100195,Northwind Skincare,eBay,SKU-1005,1,2026-10-14 11:00,GB,Delivered
+ORD-100196,Brightpeak Outdoor,eBay,SKU-1031,4,2026-10-17 16:00,DE,Shipped
+ORD-100197,Vela Activewear,Shopify,SKU-1004,3,2026-10-17 21:00,IE,Delivered
+ORD-100198,Brightpeak Outdoor,eBay,SKU-1019,2,2026-10-17 17:00,FR,Shipped
+ORD-100199,Vela Activewear,eBay,SKU-1022,1,2026-10-14 03:00,DE,Shipped
+ORD-100999,Lumen Home,Shopify,SKU-1001,1,2026-10-19 07:00,GB,Processing
